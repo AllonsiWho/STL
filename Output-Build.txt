@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: STL, Configuration: Debug Win32 ------
+1>Maaster.cpp
+1>D:\Users\Admin\Desktop\Саша\Учеба\С++\OOP\STL\STL\Maaster.cpp(29,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+1>STL.vcxproj -> D:\Users\Admin\Desktop\Саша\Учеба\С++\OOP\STL\Debug\STL.exe
+1>Done building project "STL.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
